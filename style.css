@@ -1,0 +1,11 @@
+.body_backgorund {
+	background-image: url("Bg1.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#Mycanvas{
+background-color: aliceblue;
+border-width: 10px;
+border-style:dotted;
+}
